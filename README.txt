@@ -12,5 +12,3 @@ PUT /funcionarios/<id> - atualiza o funcionario (o id não pode ser atualizado)
 DELETE / funcionarios /<id> - remove um funcionario cujo id foi passado
 
 OBS: Serão testado exatamente essas URI's no Postman. Se atentem na consturção das mesmas para representar o pedido.
-
-Subir o código para um repositório no Github e enviar o link do repositório neste trabalho até a data prevista.
